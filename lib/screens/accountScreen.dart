@@ -92,7 +92,7 @@ class AccountScreen extends StatelessWidget {
     Account(
       name: 'Ahmed Mostafa Hussein',
       email: 'ahmed@example.com',
-      picture: 'assets/ahmed.jpg',
+      picture: 'assets/placeholder.jpg',
     ),
   ];
 

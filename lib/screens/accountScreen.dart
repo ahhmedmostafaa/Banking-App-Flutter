@@ -91,18 +91,8 @@ class AccountScreen extends StatelessWidget {
   final List<Account> accounts = [
     Account(
       name: 'Ahmed Mostafa Hussein',
-      email: 'a7medmostafa@gmail.com',
+      email: 'ahmed@example.com',
       picture: 'assets/ahmed.jpg',
-    ),
-    Account(
-      name: 'Khaled Mohamed Ahmed',
-      email: 'khaledmohamed@gmail.com',
-      picture: 'assets/khaled.jpg',
-    ),
-    Account(
-      name: 'Youssef Gamal Ghoneim',
-      email: 'youssefgamal@gmail.com',
-      picture: 'assets/youssef.jpg',
     ),
   ];
 

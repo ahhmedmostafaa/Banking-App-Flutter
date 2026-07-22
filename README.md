@@ -2,6 +2,20 @@
 
 A cross-platform mobile banking app UI built with Flutter, featuring a login screen, home dashboard with credit card display, and transaction history.
 
+## Screenshots
+
+| Login | Forgot Password | Home |
+|---|---|---|
+| ![Login](screenshots/login_screen.jpeg) | ![Forgot Password](screenshots/forgot_password_dialog.jpeg) | ![Home](screenshots/home_dashboard_1.jpeg) |
+
+| Home (scrolled) | Transaction Details | Settings |
+|---|---|---|
+| ![Home 2](screenshots/home_dashboard_2.jpeg) | ![Transaction Details](screenshots/transaction_details.jpeg) | ![Settings](screenshots/settings_screen.jpeg) |
+
+| App Icon |
+|---|
+| ![App Icon](screenshots/app_icon_splash.jpeg) |
+
 ## Features
 - **Login screen** with gradient background and credential validation
 - **Home dashboard** combining an app bar, a scrollable list of bank cards, and recent transactions

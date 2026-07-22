@@ -4,22 +4,41 @@ A cross-platform mobile banking app UI built with Flutter, featuring a login scr
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/login_screen.jpeg" width="170" hspace="6"/>
-  <img src="screenshots/forgot_password_dialog.jpeg" width="170" hspace="6"/>
-  <img src="screenshots/home_dashboard_1.jpeg" width="170" hspace="6"/>
-  <img src="screenshots/home_dashboard_2.jpeg" width="170" hspace="6"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/transaction_details.jpeg" width="170" hspace="6"/>
-  <img src="screenshots/settings_screen.jpeg" width="170" hspace="6"/>
-  <img src="screenshots/app_icon_splash.jpeg" width="170" hspace="6"/>
-</p>
-
-<p align="center">
-  <sub><b>Login</b> · <b>Forgot Password</b> · <b>Home</b> · <b>Home (scrolled)</b> · <b>Transaction Details</b> · <b>Settings</b> · <b>App Icon</b></sub>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/login_screen.jpeg" width="170"/><br/>
+      <sub><b>Login</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/forgot_password_dialog.jpeg" width="170"/><br/>
+      <sub><b>Forgot Password</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/home_dashboard_1.jpeg" width="170"/><br/>
+      <sub><b>Home</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/home_dashboard_2.jpeg" width="170"/><br/>
+      <sub><b>Home (scrolled)</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/transaction_details.jpeg" width="170"/><br/>
+      <sub><b>Transaction Details</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/settings_screen.jpeg" width="170"/><br/>
+      <sub><b>Settings</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/app_icon_splash.jpeg" width="170"/><br/>
+      <sub><b>App Icon</b></sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ## Features
 - **Login screen** with gradient background and credential validation
@@ -40,13 +59,6 @@ lib/
 └── utilities/                  # Theme colors & text styles
 
 screenshots/                    # App screenshots used in this README
-├── login_screen.jpeg
-├── forgot_password_dialog.jpeg
-├── home_dashboard_1.jpeg
-├── home_dashboard_2.jpeg
-├── transaction_details.jpeg
-├── settings_screen.jpeg
-└── app_icon_splash.jpeg
 ```
 
 ## Tech Stack

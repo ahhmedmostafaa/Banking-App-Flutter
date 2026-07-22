@@ -4,17 +4,23 @@ A cross-platform mobile banking app UI built with Flutter, featuring a login scr
 
 ## Screenshots
 
-| Login | Forgot Password | Home |
-|---|---|---|
-| ![Login](screenshots/login_screen.jpeg) | ![Forgot Password](screenshots/forgot_password_dialog.jpeg) | ![Home](screenshots/home_dashboard_1.jpeg) |
-
-| Home (scrolled) | Transaction Details | Settings |
-|---|---|---|
-| ![Home 2](screenshots/home_dashboard_2.jpeg) | ![Transaction Details](screenshots/transaction_details.jpeg) | ![Settings](screenshots/settings_screen.jpeg) |
-
-| App Icon |
-|---|
-| ![App Icon](screenshots/app_icon_splash.jpeg) |
+<table>
+  <tr>
+    <td align="center"><b>Login</b><br><img src="screenshots/login_screen.jpeg" width="200"/></td>
+    <td align="center"><b>Forgot Password</b><br><img src="screenshots/forgot_password_dialog.jpeg" width="200"/></td>
+    <td align="center"><b>Home</b><br><img src="screenshots/home_dashboard_1.jpeg" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Home (scrolled)</b><br><img src="screenshots/home_dashboard_2.jpeg" width="200"/></td>
+    <td align="center"><b>Transaction Details</b><br><img src="screenshots/transaction_details.jpeg" width="200"/></td>
+    <td align="center"><b>Settings</b><br><img src="screenshots/settings_screen.jpeg" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>App Icon</b><br><img src="screenshots/app_icon_splash.jpeg" width="200"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Features
 - **Login screen** with gradient background and credential validation

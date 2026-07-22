@@ -18,12 +18,12 @@ A cross-platform mobile banking app UI built with Flutter, featuring a login scr
       <img src="screenshots/home_dashboard_1.jpeg" width="170"/><br/>
       <sub><b>Home</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="screenshots/home_dashboard_2.jpeg" width="170"/><br/>
       <sub><b>Home (scrolled)</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="screenshots/transaction_details.jpeg" width="170"/><br/>
       <sub><b>Transaction Details</b></sub>
@@ -32,11 +32,12 @@ A cross-platform mobile banking app UI built with Flutter, featuring a login scr
       <img src="screenshots/settings_screen.jpeg" width="170"/><br/>
       <sub><b>Settings</b></sub>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
       <img src="screenshots/app_icon_splash.jpeg" width="170"/><br/>
       <sub><b>App Icon</b></sub>
     </td>
-    <td></td>
   </tr>
 </table>
 

@@ -52,7 +52,7 @@ A cross-platform mobile banking app UI built with Flutter, featuring a login scr
 ## Project Structure
 ```
 lib/
-├── main.dart                  # App entry point
+├── main.dart                   # App entry point
 ├── home_widget.dart            # Root widget after login
 ├── screens/                    # Login, Home, Account, Transactions, Settings
 ├── widgets/                    # CreditCard, TransactionCard, AddNote, CardInPage

@@ -4,42 +4,40 @@ A cross-platform mobile banking app UI built with Flutter, featuring a login scr
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/login_screen.jpeg" width="170"/><br/>
-      <sub><b>Login</b></sub>
-    </td>
-    <td align="center">
-      <img src="screenshots/forgot_password_dialog.jpeg" width="170"/><br/>
-      <sub><b>Forgot Password</b></sub>
-    </td>
-    <td align="center">
-      <img src="screenshots/home_dashboard_1.jpeg" width="170"/><br/>
-      <sub><b>Home</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="screenshots/home_dashboard_2.jpeg" width="170"/><br/>
-      <sub><b>Home (scrolled)</b></sub>
-    </td>
-    <td align="center">
-      <img src="screenshots/transaction_details.jpeg" width="170"/><br/>
-      <sub><b>Transaction Details</b></sub>
-    </td>
-    <td align="center">
-      <img src="screenshots/settings_screen.jpeg" width="170"/><br/>
-      <sub><b>Settings</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <img src="screenshots/app_icon_splash.jpeg" width="170"/><br/>
-      <sub><b>App Icon</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="screenshots/login_screen.jpeg" width="170" height="361"/><br/>
+  <sub><b>Login</b></sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/forgot_password_dialog.jpeg" width="170" height="361"/><br/>
+  <sub><b>Forgot Password</b></sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/home_dashboard_1.jpeg" width="170" height="361"/><br/>
+  <sub><b>Home</b></sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/home_dashboard_2.jpeg" width="170" height="361"/><br/>
+  <sub><b>Home (scrolled)</b></sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/transaction_details.jpeg" width="170" height="361"/><br/>
+  <sub><b>Transaction Details</b></sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/settings_screen.jpeg" width="170" height="361"/><br/>
+  <sub><b>Settings</b></sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/app_icon_splash.jpeg" width="170" height="361"/><br/>
+  <sub><b>App Icon</b></sub>
+</p>
 
 ## Features
 - **Login screen** with gradient background and credential validation
